@@ -1,5 +1,5 @@
 
-# Bengali Medical LLM Post-Training with Qwen2.5
+# Bengali Medical LLM Post-Training 
 
 ## Overview
 
